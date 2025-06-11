@@ -1,10 +1,10 @@
-Here is a sample README.md for your college review project:
+Here is a sample README.md for your Basic AI chatbot project:
 
 ---
 
-# College Review Web Application
+# Basic AI chatbot web application:
 
-A simple web application for user registration, login, and college review, featuring an AI Chatbot.
+A simple web application for user registration, login, featuring an AI Chatbot.
 
 ## Features
 
